@@ -3,3 +3,5 @@
 - Nguyen Phan Phuong Thanh
 - Nguyen Ngoc Han
 - Pham Ngoc Quang Nam
+----------------------------------
+Cap nhat file thanh vien
