@@ -1,5 +1,1 @@
-- Hello banh beos
-- Huynh Thi Phi Than
-- Nguyen Phan Phuong Thanh
-- Nguyen Ngoc Han
-- Pham Ngoc Quang Nam
+//Ds thanh vien
